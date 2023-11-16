@@ -188,7 +188,7 @@ if (!empty($_SESSION['username'])) {
 
 <footer class="bg-light py-4">
     <div class="container text-center">
-        <p>&copy; 2023 Copyright by Denta Dhiwangga | STRD</p>
+        <p>&copy; 2023 Copyright by Denta Dhiwangga 03 RPl | STRD </p>
     </div>
 </footer>
 
